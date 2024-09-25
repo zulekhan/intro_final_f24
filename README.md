@@ -5,9 +5,11 @@
 **This assignment has *multiple* steps. Please *read* the steps *completely* and *thoroughly*. You may need to review, research, problem solve, and ask questions.**
 
 ## **Overview:**
+
 You are tasked with updating and syncing the repository with your information. (factual or fictional).
 
 ## **Objective:**
+
 Update the website with information.
 
 - [ ] Fork the repository.
@@ -22,10 +24,12 @@ Update the website with information.
 - [ ] Turn in assignment.
 
 ### 1. **Fork the Repo**
+
 1. Click the **Fork** button in the top right corner of the repository to create your own copy.
-3. This will create a forked copy in your own GitHub account.
+2. This will create a forked copy in your own GitHub account.
 
 ### 2. **Clone the Repo to Your Computer**
+
 1. On your GitHub page, go to the newly forked repository.
 2. Click the green **Code** button and copy the URL (either HTTPS or SSH).
 3. Open **Git Bash** or **Terminal** and navigate to where you want to save the project:
@@ -33,6 +37,7 @@ Update the website with information.
    ```bash
    cd ~/Documents/Projects
    ```
+
 4. Clone the repo to your local machine:
 
    ```bash
@@ -42,18 +47,20 @@ Update the website with information.
    Replace `<URL you copied>` with the repo URL.
 
 ### 3. **Open the Files in Your Code Editor**
+
 1. Navigate to the project folder:
 
    ```bash
    cd <your-repo-name>
    ```
 
-2. Open the project in **Visual Studio Code** (VS Code):
+2. Open the project files:
 
-- 
+   - Open the project in **Visual Studio Code** (VS Code), if it's installed.
    - Alternatively, open the `index.html` file in **Notepad** (Windows) or **TextEdit** (macOS).
 
 ### 4. **Replace the Placeholder Image with Another Photo**
+
 1. **Download** or use your own photo and save it in the project’s `img` folder.
    - Make sure the `img` folder exists. If not, create it:
      - In the project folder, create a folder named `img`.
@@ -68,6 +75,7 @@ Update the website with information.
    - Replace `your-photo.jpg` with the actual filename of your image.
 
 ### 5. **Change the Button Color to Green**
+
 1. Open the `styles.css` file in your editor.
 2. Find the `.link-btn` class in the CSS file:
 
@@ -86,6 +94,7 @@ Update the website with information.
    - This changes the button to green.
 
 ### 6. **Update Name and Bio**
+
 1. In `index.html`, locate this section:
 
    ```html
@@ -96,6 +105,7 @@ Update the website with information.
 2. Replace `John Doe` with your own name and update the bio text to reflect your personal details.
 
 ### 7. **Add a JavaScript Alert**
+
 1. Open the `index.html` file and locate the `<body>` tag.
 2. Just before the closing `</body>` tag, add the following JavaScript code to display an alert box:
 
@@ -104,9 +114,11 @@ Update the website with information.
        alert("Hello world");
    </script>
    ```
+
 3. Save the file and open `index.html` in a browser. You should see a pop-up that says "Hello world".
 
 ### 8. **Modify the JavaScript Alert**
+
 1. In the same `<script>` tag, change the alert text to display "Hello World, I'm a Developer":
 
    ```html
@@ -116,6 +128,7 @@ Update the website with information.
 2. Save the file and refresh the browser to see the new alert.
 
 ### 9. **Sync Your Changes to GitHub**
+
 1. After making the changes, open **Git Bash** or **Terminal**.
 2. Make sure you are in the project folder:
 
@@ -149,6 +162,36 @@ Update the website with information.
 
    - This will sync your changes to your GitHub repository.
 
-### 10. Turn In Assignment in Google Classroom.
-1. Login to Google Classroom 
+### 10. Turn In Assignment in Google Classroom
+
+1. Login to Google Classroom.
 2. Turn in assignment.
+
+## Instructions for Opening `index.html` in a Browser to Check Changes
+
+After making changes to your `index.html` file, follow these steps to open it in a browser and verify that your updates are working:
+
+### 1. **Locate the `index.html` File**
+
+- In **Windows**: Open **File Explorer** and navigate to the project folder where the `index.html` file is located (e.g., `C:\Users\<YourName>\Documents\Projects\<your-repo-name>`).
+- In **macOS**: Open **Finder** and navigate to the same project folder.
+
+### 2. **Open the `index.html` File**
+  
+1. In Finder, find the `index.html` file.
+2. Right-click (or Control-click) on the `index.html` file.
+3. Choose **Open With** and select a browser (e.g., Safari, Chrome, Firefox).
+
+### 3. **Direct Browser Opening (Alternative)**
+
+- If your code editor is **Visual Studio Code** and the "Live Server" extension is installed, you can also:
+  1. Right-click `index.html` in the VS Code file explorer.
+  2. Select **Open with Live Server**. This will automatically open the file in your default browser.
+
+#### 4. **View Your Changes**
+
+- Once opened, you should see your bio with the updated image, green buttons, and JavaScript alert message pop up.
+  
+- If the browser does not refresh automatically after you make changes, press **Ctrl + R** (Windows) or **Command + R** (macOS) to refresh the page and load the latest version.
+
+This will let you see all the modifications you made to the page in real time!
