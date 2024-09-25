@@ -185,7 +185,7 @@ After making changes to your `index.html` file, follow these steps to open it in
 
 ### **Live Server (Alternative)**
 
-[Live Server installation:](https://code-you.org/students/resources/guides/install-live-server-in-vs-code/) https://code-you.org/students/resources/guides/install-live-server-in-vs-code/
+Live Server installation: https://code-you.org/students/resources/guides/install-live-server-in-vs-code/
 
 - If your code editor is **Visual Studio Code** and the "*Live Server*" extension is installed, you can also:
   1. Right-click `index.html` in the VS Code file explorer.
