@@ -3,32 +3,38 @@
 ## Instructions for Customizing Your Repo and Syncing to GitHub
 
 ### 1. **Fork the Repo**
-1. Go to the GitHub repository that contains the HTML/CSS code.
-2. Click the **Fork** button in the top right corner of the repository to create your own copy.
+1. Click the **Fork** button in the top right corner of the repository to create your own copy.
 3. This will create a forked copy in your own GitHub account.
 
 ### 2. **Clone the Repo to Your Computer**
 1. On your GitHub page, go to the newly forked repository.
 2. Click the green **Code** button and copy the URL (either HTTPS or SSH).
 3. Open **Git Bash** or **Terminal** and navigate to where you want to save the project:
+
    ```bash
    cd ~/Documents/Projects
    ```
 4. Clone the repo to your local machine:
+
    ```bash
    git clone <URL you copied>
    ```
+
    Replace `<URL you copied>` with the repo URL.
 
 ### 3. **Open the Files in Your Code Editor**
 1. Navigate to the project folder:
+
    ```bash
    cd <your-repo-name>
    ```
+
 2. Open the project in **Visual Studio Code** (VS Code):
+
    ```bash
    code .
    ```
+
    - Alternatively, open the `index.html` file in **Notepad** (Windows) or **TextEdit** (macOS).
 
 ### 4. **Replace the Placeholder Image with Your Own Photo**
