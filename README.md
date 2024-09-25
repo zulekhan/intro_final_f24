@@ -115,7 +115,7 @@ Update the website with information.
    </script>
    ```
 
-3. Save the file and open `index.html` in a browser. You should see a pop-up that says "Hello world". [More Information](#Turn-In-Assignment-in-Google-Classroom)
+3. Save the file and open `index.html` in a browser. You should see a pop-up that says "Hello world". [More Information on Opening a HTML file](#Turn-In-Assignment-in-Google-Classroom)
 
 ### 8. **Modify the JavaScript Alert**
 
@@ -180,6 +180,8 @@ After making changes to your `index.html` file, follow these steps to open it in
 1. Locate the `index.html` file. (`~\Documents\Projects\<your-repo-name>`)
 2. Right-click (or Control-click) on the `index.html` file.
 3. Choose **Open With** and select a browser (e.g., Edge, Safari, Chrome, Firefox).
+
+You will need to save your file and refresh(F5)
 
 #### **OR**
 
