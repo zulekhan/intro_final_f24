@@ -6,7 +6,7 @@
 
 ## **Overview:**
 
-You are tasked with updating and syncing the repository with your information. (factual or fictional).
+You are tasked with updating and syncing the repository with updated information. (factual or fictional).
 
 ## **Objective:**
 
@@ -167,28 +167,31 @@ Update the website with information.
 1. Login to Google Classroom.
 2. Turn in assignment.
 
+---
+
 ## Instructions for Opening `index.html` in a Browser to Check Changes
 
 After making changes to your `index.html` file, follow these steps to open it in a browser and verify that your updates are working:
 
-### 1. **Locate the `index.html` File**
+### 1. **Open file in Browser**
 
-- In **Windows**: Open **File Explorer** and navigate to the project folder where the `index.html` file is located (e.g., `C:\Users\<YourName>\Documents\Projects\<your-repo-name>`).
-- In **macOS**: Open **Finder** and navigate to the same project folder.
-
-### 2. **Open the `index.html` File**
+#### **Open the `index.html` File**
   
-1. In Finder, find the `index.html` file.
+1. Locate the `index.html` file. (`~\Documents\Projects\<your-repo-name>`)
 2. Right-click (or Control-click) on the `index.html` file.
-3. Choose **Open With** and select a browser (e.g., Safari, Chrome, Firefox).
+3. Choose **Open With** and select a browser (e.g., Edge, Safari, Chrome, Firefox).
 
-### 3. **Direct Browser Opening (Alternative)**
+**OR**
 
-- If your code editor is **Visual Studio Code** and the "Live Server" extension is installed, you can also:
+### **Live Server (Alternative)**
+
+[Live Server installation:](https://code-you.org/students/resources/guides/install-live-server-in-vs-code/)
+
+- If your code editor is **Visual Studio Code** and the "*Live Server*" extension is installed, you can also:
   1. Right-click `index.html` in the VS Code file explorer.
   2. Select **Open with Live Server**. This will automatically open the file in your default browser.
 
-#### 4. **View Your Changes**
+#### 2. **View Your Changes**
 
 - Once opened, you should see your bio with the updated image, green buttons, and JavaScript alert message pop up.
   
