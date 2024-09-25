@@ -2,6 +2,8 @@
 
 **This assignment has *multiple* steps. Please *read* the steps *completely* and *thoroughly*. You may need to review, research, problem solve, and ask questions.**
 
+![Starting Screenshot](https://github.com/CodeYouOrg/intro_final_f24/blob/main/mockup-start.jpg?raw=true)
+
 ## **Overview:**
 
 You are tasked with updating and syncing the repository with updated information. (factual or fictional).
