@@ -173,7 +173,7 @@ Update the website with information.
 
 After making changes to your `index.html` file, follow these steps to open it in a browser and verify that your updates are working:
 
-### 1. **Open file in Browser**
+### 1. **Open file in a Browser**
 
 #### **Open the `index.html` File**
   
@@ -183,7 +183,7 @@ After making changes to your `index.html` file, follow these steps to open it in
 
 #### **OR**
 
-#### **Live Server (Alternative)**
+#### **Visual Studio Code with Live Server Plugin (Alternative)**
 
 Live Server installation: https://code-you.org/students/resources/guides/install-live-server-in-vs-code/
 
