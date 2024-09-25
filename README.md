@@ -115,7 +115,7 @@ Update the website with information.
    </script>
    ```
 
-3. Save the file and open `index.html` in a browser. You should see a pop-up that says "Hello world". [More Information below] (https://github.com/CodeYouOrg/intro_final_f24?tab=readme-ov-file)
+3. Save the file and open `index.html` in a browser. You should see a pop-up that says "Hello world". [More Information](#Turn-In-Assignment-in-Google-Classroom)
 
 ### 8. **Modify the JavaScript Alert**
 
