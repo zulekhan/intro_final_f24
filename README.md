@@ -1,13 +1,13 @@
-# intro_final_f24
+# Code:You Intro Final Repo
 
-### Instructions for Customizing Your Repo and Syncing to GitHub
+## Instructions for Customizing Your Repo and Syncing to GitHub
 
-#### 1. **Fork the Repo**
+### 1. **Fork the Repo**
 1. Go to the GitHub repository that contains the HTML/CSS code.
 2. Click the **Fork** button in the top right corner of the repository to create your own copy.
 3. This will create a forked copy in your own GitHub account.
 
-#### 2. **Clone the Repo to Your Computer**
+### 2. **Clone the Repo to Your Computer**
 1. On your GitHub page, go to the newly forked repository.
 2. Click the green **Code** button and copy the URL (either HTTPS or SSH).
 3. Open **Git Bash** or **Terminal** and navigate to where you want to save the project:
@@ -20,7 +20,7 @@
    ```
    Replace `<URL you copied>` with the repo URL.
 
-#### 3. **Open the Files in Your Code Editor**
+### 3. **Open the Files in Your Code Editor**
 1. Navigate to the project folder:
    ```bash
    cd <your-repo-name>
@@ -31,7 +31,7 @@
    ```
    - Alternatively, open the `index.html` file in **Notepad** (Windows) or **TextEdit** (macOS).
 
-#### 4. **Replace the Placeholder Image with Your Own Photo**
+### 4. **Replace the Placeholder Image with Your Own Photo**
 1. **Download** or use your own photo and save it in the project’s `img` folder.
    - Make sure the `img` folder exists. If not, create it:
      - In the project folder, create a folder named `img`.
@@ -43,7 +43,7 @@
    ```
    - Replace `your-photo.jpg` with the actual filename of your image.
 
-#### 5. **Change the Button Color to Green**
+### 5. **Change the Button Color to Green**
 1. Open the `styles.css` file in your editor.
 2. Find the `.link-btn` class in the CSS file:
    ```css
@@ -57,7 +57,7 @@
    ```
    - This changes the button to a green shade.
 
-#### 6. **Update Your Name and Bio**
+### 6. **Update Your Name and Bio**
 1. In `index.html`, locate this section:
    ```html
    <h2>John Doe</h2>
@@ -65,7 +65,7 @@
    ```
 2. Replace `John Doe` with your own name and update the bio text to reflect your personal details.
 
-#### 7. **Add a Simple JavaScript Alert**
+### 7. **Add a Simple JavaScript Alert**
 1. Open the `index.html` file and locate the `<body>` tag.
 2. Just before the closing `</body>` tag, add the following JavaScript code to display an alert box:
    ```html
@@ -75,7 +75,7 @@
    ```
 3. Save the file and open `index.html` in a browser. You should see a pop-up that says "Hello world".
 
-#### 8. **Modify the JavaScript Alert**
+### 8. **Modify the JavaScript Alert**
 1. In the same `<script>` tag, change the alert text to display "Hello World, I'm a Developer":
    ```html
    <script>
@@ -84,7 +84,7 @@
    ```
 2. Save the file and refresh the browser to see the new alert.
 
-#### 9. **Sync Your Changes to GitHub**
+### 9. **Sync Your Changes to GitHub**
 1. After making the changes, open **Git Bash** or **Terminal**.
 2. Make sure you are in the project folder:
    ```bash
@@ -108,4 +108,6 @@
    ```
    - This will sync your changes to your GitHub repository.
 
-You’ve now successfully updated the repo with your own photo, bio, a green button, and a JavaScript alert!
+### 10. Turn In Assignment in Google Classroom.
+1. Login to Google Classroom 
+2. Turn in assignment.
