@@ -181,7 +181,7 @@ After making changes to your `index.html` file, follow these steps to open it in
 2. Right-click (or Control-click) on the `index.html` file.
 3. Choose **Open With** and select a browser (e.g., Edge, Safari, Chrome, Firefox).
 
-You will need to save your file and refresh(F5)
+You will need to save your file and refresh(F5) the page every time you make changes to the html, css files.
 
 #### **OR**
 
