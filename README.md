@@ -14,9 +14,9 @@ Update the website with information.
 
 - [ ] Fork the repository.
 - [ ] Clone the repository to your computer.
-- [ ] Open the files in your code editor.
+- [ ] Open the files in your code or text editor.
 - [ ] Replace the placeholder image with another photo.
-- [ ] Change button color to green.
+- [ ] Change button color to another color.
 - [ ] Update name and bio text.
 - [ ] Add JavaScript alert box.
 - [ ] Modify JavaScript.
@@ -88,7 +88,7 @@ Update the website with information.
 3. Replace `#007bff` (the blue color) with a hex code for green.
 
    ```css
-   background-color: #28a745;
+   background-color: #229954; /* new green color */
    ```
 
    - This changes the button to green.
