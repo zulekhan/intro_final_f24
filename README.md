@@ -169,7 +169,7 @@ Update the website with information.
 
 ---
 
-## Instructions for Opening `index.html` in a Browser to Check Changes
+## Instructions for Opening HTML file in a Browser to Check Changes
 
 After making changes to your `index.html` file, follow these steps to open it in a browser and verify that your updates are working:
 
@@ -181,7 +181,7 @@ After making changes to your `index.html` file, follow these steps to open it in
 2. Right-click (or Control-click) on the `index.html` file.
 3. Choose **Open With** and select a browser (e.g., Edge, Safari, Chrome, Firefox).
 
-**OR**
+### **OR**
 
 ### **Live Server (Alternative)**
 
