@@ -2,6 +2,26 @@
 
 ## Instructions for Customizing Your Repo and Syncing to GitHub
 
+**This assignment has *multiple* steps, please *read* the steps *completely* and *thoroughly*. You may need to review, research, problem solve, and ask questions.**
+
+## **Overview:**
+You are tasked with updating and syncing the repository with your information. (factual or fictional).
+
+## **Objective:**
+Update the website with information.
+
+- [ ] Fork the repository.
+- [ ] Clone the repository to your computer.
+- [ ] Open the files in your code editor.
+- [ ] Replace the placeholder image with another photo.
+- [ ] Change button color to green.
+- [ ] Update name and bio text.
+- [ ] O
+- [ ] O
+- [ ] O
+- [ ] O
+- [ ] O
+
 ### 1. **Fork the Repo**
 1. Click the **Fork** button in the top right corner of the repository to create your own copy.
 3. This will create a forked copy in your own GitHub account.
@@ -37,7 +57,7 @@
 
    - Alternatively, open the `index.html` file in **Notepad** (Windows) or **TextEdit** (macOS).
 
-### 4. **Replace the Placeholder Image with Your Own Photo**
+### 4. **Replace the Placeholder Image with Another Photo**
 1. **Download** or use your own photo and save it in the project’s `img` folder.
    - Make sure the `img` folder exists. If not, create it:
      - In the project folder, create a folder named `img`.
@@ -61,15 +81,15 @@
    }
    ```
 
-3. Replace `#007bff` (the blue color) with a green hex code. For example:
+3. Replace `#007bff` (the blue color) with a hex code for green.
 
    ```css
    background-color: #28a745;
    ```
 
-   - This changes the button to a green shade.
+   - This changes the button to green.
 
-### 6. **Update Your Name and Bio**
+### 6. **Update Name and Bio**
 1. In `index.html`, locate this section:
 
    ```html
