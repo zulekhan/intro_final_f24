@@ -2,15 +2,9 @@
 
 **This assignment has *multiple* steps. Please *read* the steps *completely* and *thoroughly*. You may need to review, research, problem solve, and ask questions.**
 
-### **Overview:**
+## **Overview:**
 
 You are tasked with updating and syncing the repository with updated information. (factual or fictional).
-
-## Instructions for Customizing Your Repo and Syncing to GitHub
-
-### **Objective:**
-
-Update the website with information.
 
 - [ ] Fork the repository.
 - [ ] Clone the repository to your computer.
@@ -22,6 +16,12 @@ Update the website with information.
 - [ ] Modify JavaScript.
 - [ ] Sync changes to GitHub.
 - [ ] Turn in assignment.
+
+## Instructions for Customizing Your Repo and Syncing to GitHub
+
+### **Objective:**
+
+Update the website with information.
 
 ### 1. **Fork the Repo**
 
