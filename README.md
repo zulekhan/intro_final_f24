@@ -2,7 +2,7 @@
 
 ## Instructions for Customizing Your Repo and Syncing to GitHub
 
-**This assignment has *multiple* steps, please *read* the steps *completely* and *thoroughly*. You may need to review, research, problem solve, and ask questions.**
+**This assignment has *multiple* steps. Please *read* the steps *completely* and *thoroughly*. You may need to review, research, problem solve, and ask questions.**
 
 ## **Overview:**
 You are tasked with updating and syncing the repository with your information. (factual or fictional).
@@ -50,10 +50,7 @@ Update the website with information.
 
 2. Open the project in **Visual Studio Code** (VS Code):
 
-   ```bash
-   code .
-   ```
-
+- 
    - Alternatively, open the `index.html` file in **Notepad** (Windows) or **TextEdit** (macOS).
 
 ### 4. **Replace the Placeholder Image with Another Photo**
