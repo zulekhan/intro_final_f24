@@ -16,11 +16,10 @@ Update the website with information.
 - [ ] Replace the placeholder image with another photo.
 - [ ] Change button color to green.
 - [ ] Update name and bio text.
-- [ ] O
-- [ ] O
-- [ ] O
-- [ ] O
-- [ ] O
+- [ ] Add JavaScript alert box.
+- [ ] Modify JavaScript.
+- [ ] Sync changes to GitHub.
+- [ ] Turn in assignment.
 
 ### 1. **Fork the Repo**
 1. Click the **Fork** button in the top right corner of the repository to create your own copy.
@@ -99,7 +98,7 @@ Update the website with information.
 
 2. Replace `John Doe` with your own name and update the bio text to reflect your personal details.
 
-### 7. **Add a Simple JavaScript Alert**
+### 7. **Add a JavaScript Alert**
 1. Open the `index.html` file and locate the `<body>` tag.
 2. Just before the closing `</body>` tag, add the following JavaScript code to display an alert box:
 
