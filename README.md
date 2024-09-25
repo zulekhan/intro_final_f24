@@ -181,9 +181,9 @@ After making changes to your `index.html` file, follow these steps to open it in
 2. Right-click (or Control-click) on the `index.html` file.
 3. Choose **Open With** and select a browser (e.g., Edge, Safari, Chrome, Firefox).
 
-### **OR**
+#### **OR**
 
-### **Live Server (Alternative)**
+#### **Live Server (Alternative)**
 
 Live Server installation: https://code-you.org/students/resources/guides/install-live-server-in-vs-code/
 
@@ -191,10 +191,10 @@ Live Server installation: https://code-you.org/students/resources/guides/install
   1. Right-click `index.html` in the VS Code file explorer.
   2. Select **Open with Live Server**. This will automatically open the file in your default browser.
 
-#### 2. **View Your Changes**
+### 2. **View Your Changes**
 
 - Once opened, you should see your bio with the updated image, green buttons, and JavaScript alert message pop up.
   
 - If the browser does not refresh automatically after you make changes, press **Ctrl + R** (Windows) or **Command + R** (macOS) to refresh the page and load the latest version.
 
-This will let you see all the modifications you made to the page in real time!
+This will let you see all the changes made to the page in real time.
