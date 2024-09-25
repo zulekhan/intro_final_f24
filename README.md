@@ -44,36 +44,45 @@
      - Move your image file into this folder.
 
 2. In `index.html`, replace the placeholder image (`https://via.placeholder.com/150`) with your own:
+
    ```html
    <img src="img/your-photo.jpg" alt="Your Name">
    ```
+
    - Replace `your-photo.jpg` with the actual filename of your image.
 
 ### 5. **Change the Button Color to Green**
 1. Open the `styles.css` file in your editor.
 2. Find the `.link-btn` class in the CSS file:
+
    ```css
    .link-btn {
        background-color: #007bff; /* current blue color */
    }
    ```
+
 3. Replace `#007bff` (the blue color) with a green hex code. For example:
+
    ```css
    background-color: #28a745;
    ```
+
    - This changes the button to a green shade.
 
 ### 6. **Update Your Name and Bio**
 1. In `index.html`, locate this section:
+
    ```html
    <h2>John Doe</h2>
    <p>Hi, I'm John, a passionate software developer...</p>
    ```
+
 2. Replace `John Doe` with your own name and update the bio text to reflect your personal details.
 
 ### 7. **Add a Simple JavaScript Alert**
 1. Open the `index.html` file and locate the `<body>` tag.
 2. Just before the closing `</body>` tag, add the following JavaScript code to display an alert box:
+
    ```html
    <script>
        alert("Hello world");
@@ -83,35 +92,47 @@
 
 ### 8. **Modify the JavaScript Alert**
 1. In the same `<script>` tag, change the alert text to display "Hello World, I'm a Developer":
+
    ```html
    <script>
        alert("Hello World, I'm a Developer");
    </script>
    ```
+
 2. Save the file and refresh the browser to see the new alert.
 
 ### 9. **Sync Your Changes to GitHub**
 1. After making the changes, open **Git Bash** or **Terminal**.
 2. Make sure you are in the project folder:
+
    ```bash
    cd ~/Documents/Projects/<your-repo-name>
    ```
+
 3. Check the current status of your changes:
+
    ```bash
    git status
    ```
+
 4. Add the modified files:
+
    ```bash
    git add .
    ```
+
 5. Commit the changes with a message:
+
    ```bash
    git commit -m "Updated bio, image, button color, and added JavaScript alert"
    ```
+
 6. Push the changes to GitHub:
+
    ```bash
    git push origin main
    ```
+
    - This will sync your changes to your GitHub repository.
 
 ### 10. Turn In Assignment in Google Classroom.
