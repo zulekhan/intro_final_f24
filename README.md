@@ -6,11 +6,11 @@
 
 You are tasked with updating and syncing the repository with updated information. (factual or fictional).
 
+## Instructions for Customizing Your Repo and Syncing to GitHub
+
 ### **Objective:**
 
 Update the website with information.
-
-## Instructions for Customizing Your Repo and Syncing to GitHub
 
 - [ ] Fork the repository.
 - [ ] Clone the repository to your computer.
