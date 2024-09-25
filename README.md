@@ -1,16 +1,16 @@
 # Code:You Intro Final Repo
 
-## Instructions for Customizing Your Repo and Syncing to GitHub
-
 **This assignment has *multiple* steps. Please *read* the steps *completely* and *thoroughly*. You may need to review, research, problem solve, and ask questions.**
 
-## **Overview:**
+### **Overview:**
 
 You are tasked with updating and syncing the repository with updated information. (factual or fictional).
 
-## **Objective:**
+### **Objective:**
 
 Update the website with information.
+
+## Instructions for Customizing Your Repo and Syncing to GitHub
 
 - [ ] Fork the repository.
 - [ ] Clone the repository to your computer.
