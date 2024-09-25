@@ -114,9 +114,7 @@ Update the website with information.
 1. In the same `<script>` tag, change the alert text to display "Hello World, I'm a Developer":
 
    ```html
-   <script>
        alert("Hello World, I'm a Developer");
-   </script>
    ```
 
 2. Save the file and refresh the browser to see the new alert.
